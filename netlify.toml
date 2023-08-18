@@ -1,7 +1,7 @@
 [build]
 command = "npm run build"
 publish = "Full-Stack App/frontend/build"
-base = "Full-Stack App/frontend"
+base = "Full-Stack App"
 
 [context.backend]
 command = "npm start"
